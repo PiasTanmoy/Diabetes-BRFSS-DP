@@ -27,6 +27,7 @@ This code is used to analyze the performance if models are trained only on subgr
 ### 6. Separate_group_training_Heat_map.ipynb
 This is the code to generate heat maps for subgroup performance visualization.
 
+![alt text](https://github.com/PiasTanmoy/Diabetes-BRFSS-DP/blob/main/BRFSS%20base%20model%20performance.png?raw=true)
 
 
 
