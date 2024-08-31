@@ -7,6 +7,9 @@ The codes are cleaned and organized into code blocks with proper titles that are
 ### Data:
 In paper uses a public dataset which is available at: https://www.cdc.gov/brfss/annual_data/annual_data.htm
 
+### Coding environment:
+Python 3.6 has been used to run the codes. Please check the requirements_py3.6.txt for all the libraries with specific versions. Jupyter notebook is used for implementing code. 
+
 Code description:
 ### 1. BRFSS_data_processing.ipynb
 This is the first code segment used for data processing. BRFSS dataset is downloaded and loaded in a raw format. This code extracts the diabetes cohort with the required feature set from the dataset. Additionally, the features are mapped into different categories and later covered in one-hot encoding for machine learning model training. This code process the BRFSS dataset from years 2021, 2019, 2017, and 2015.
