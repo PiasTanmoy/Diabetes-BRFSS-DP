@@ -35,6 +35,8 @@ This is the code to generate heat maps for subgroup performance visualization.
 ### Baseline Model performance:
 ![alt text](https://github.com/PiasTanmoy/Diabetes-BRFSS-DP/blob/main/BRFSS%20base%20model%20performance.png?raw=true)
 
+![alt text](https://github.com/PiasTanmoy/Diabetes-BRFSS-DP/blob/main/age%2030-34%20-%20all%20baseline%20models.png)
+
 ### Proposed DP model performance (improved for age group 30-44):
 ![alt text](https://github.com/PiasTanmoy/Diabetes-BRFSS-DP/blob/main/BRFSS%20proposed%20DP%20model%20performance.png?raw=true)
 
